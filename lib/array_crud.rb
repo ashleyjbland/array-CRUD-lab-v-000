@@ -3,6 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
+  array = ["summer", "winter", "fall", "spring"]
 
 end
 
