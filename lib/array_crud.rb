@@ -4,10 +4,11 @@ end
 
 def create_an_array
   array = ["summer", "winter", "fall", "spring"]
-
 end
 
 def add_element_to_end_of_array(array, element)
+  array = ["summer", "winter", "fall", "spring"]
+  << "indian summer"
 
 end
 
